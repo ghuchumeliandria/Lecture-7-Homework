@@ -26,7 +26,7 @@ body{
     padding:  40px;
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 15px;
     border-radius: 8px;
 }
 .box p{
@@ -49,9 +49,6 @@ body{
     height: 32px;
     border-radius: 50%;
 }
-.header p{
-    font-size: 14px;
-}
 .white-p{
     color: #fff;
 }
@@ -66,6 +63,7 @@ body{
 }
 .color-48{
     color: #48556A;
+    line-height: 19px;
 }
 .box1{
     background-color: #733FC8 ;
